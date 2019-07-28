@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{AB397329-AADC-47E4-8E49-20065CAFA10D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NgoTracker/MainPage.xaml">
+    <Files>
+      <File FileName="NgoTracker/MainPage.xaml.cs" Line="24" Column="18" />
+      <File FileName="NgoTracker/MainPage.xaml" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/SongLoader.cs" relfile="NgoTracker/SongLoader.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/SongLoader.cs" relfile="NgoTracker/SongLoader.cs" line="30" column="1" />
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml" relfile="NgoTracker/DescriptionPage.xaml" line="15" column="1" />
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml" relfile="NgoTracker/DescriptionPage.xaml" line="16" column="112" />
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml.cs" relfile="NgoTracker/DescriptionPage.xaml.cs" line="40" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NgoTracker.Droid PreferredExecutionTarget="Android.cf11bca6" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NgoTracker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E9FD6CBD-FF61-491A-9FFF-599A4AF8EC22" />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AB397329-AADC-47E4-8E49-20065CAFA10D}|Default">
+  <MonoDevelop.Ide.ItemProperties.iConnect.Droid PreferredExecutionTarget="Android.Pixel_2_API_27" />
+  <MonoDevelop.Ide.ItemProperties.iConnect.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A39C9F1-BA4C-48E1-966E-83B2695599A0" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iConnect" expanded="True" selected="True">
+            <Node name="iConnect" expanded="True" />
+            <Node name="iConnect.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml" relfile="NgoTracker/DescriptionPage.xaml" line="15" column="1" />
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml" relfile="NgoTracker/DescriptionPage.xaml" line="16" column="112" />
+      <Breakpoint file="/Users/shubhamgoel/Projects/NgoTracker/NgoTracker/DescriptionPage.xaml.cs" relfile="NgoTracker/DescriptionPage.xaml.cs" line="40" column="13" />
+      <Breakpoint enabled="false" file="/Users/shubhamgoel/Projects/NgoTracker/.vs/iConnect/xs/UserPrefs.xml" relfile=".vs/iConnect/xs/UserPrefs.xml" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/shubhamgoel/Projects/NgoTracker/.vs/iConnect/xs/UserPrefs.xml" relfile=".vs/iConnect/xs/UserPrefs.xml" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
